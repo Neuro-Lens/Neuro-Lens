@@ -128,9 +128,9 @@ cv2.destroyAllWindows()
 
 ### 📡 **Let’s Connect & Build the Future Together**
 
-📌 **GitHub:** [NeuroLens-AI](https://github.com/NeuroLens-AI)  
+📌 **GitHub:** [Neuro-Lens](https://github.com/Neuro-Lens)  
 📌 **LinkedIn:** [Coming Soon]  
-📌 **Twitter:** [@NeuroLensAI]  
+📌 **Twitter:** [@Neuro-Lens]  
 📌 **Website:** www.neurolens.io  
 
 ---
